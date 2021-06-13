@@ -22,7 +22,17 @@ body {
 }
 .pro {
     float: left;
-    width: 33%;
+    width: 32%;
+    border: 3px solid blue;
+    padding: 5px;
+    background-color: coral;
+}
+.new {
+    float: inline-end;
+    width: 32%;
+    border: 3px solid blue;
+    padding: 5px;
+    background-color: coral;
 }
 #lia {
     text-align: center;
