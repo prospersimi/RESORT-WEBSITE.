@@ -1,0 +1,63 @@
+.home2 img {
+height: 5cm;
+width: 7cm;
+padding: 2px;
+background-color: black;
+}
+.home1 {
+width: 99%;
+border: 2px solid aquamarine;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+body {
+    background-color: lightgray;
+}
+.str {
+    font-size: 0.5cm;
+    color: chocolate;
+}
+.pro {
+    float: left;
+    width: 33%;
+}
+#lia {
+    text-align: center;
+}
+#cans {
+    height: 400px;
+    width: 98%;
+    border: 3px solid green;
+    padding: 2px;
+    background-color: black;
+}
+.acc {
+    width: 33%;
+    float: left;
+}
+.news {
+    height: 300px;
+    width: 400px;
+    padding: 2px;
+    background-color: black;
+}
+#stro {
+    color: darkgreen;
+    font-size: 0.8cm;
+}
+.rmf {
+    float: inline-start;
+}
+.contact {
+    border: 2px solid red;
+    background-color: aqua;
+    padding: 8px;
+}
+img {
+    height: 400px;
+    width: 500px;
+    border: 2px solid blue;
+}
